@@ -1,0 +1,13 @@
+,name,group.title,Status,Duration,Planned Timeline,Expenses,Cost type,Planned effort,Effort spent,Actual Date of completion
+0,Task 1,Planning,Done,3,2022-01-13 - 2022-01-15,17000,Materials,15,16,2022-01-13
+1,Task 2,Planning,Done,6,2022-01-16 - 2022-01-21,12500,Direct work,38,44,2022-01-24
+2,Milestone - Planning,Planning,Done,0,2022-01-24 - 2022-01-24,,,6,10,2022-01-25
+3,Task 3,Execution,Working on it,4,2022-01-25 - 2022-01-28,23000,Transportation,30,,
+4,Task 4,Execution,Working on it,3,2022-01-29 - 2022-01-31,18000,Legal,9,,
+5,Milestone - Execution,Execution,Future steps,0,2022-02-01 - 2022-02-01,,,4,,
+6,Task 5,Launch,Working on it,6,2022-02-02 - 2022-02-07,9000,Materials,5,,
+7,Task 6,Launch,Future steps,13,2022-02-08 - 2022-02-20,7000,Legal,6,,
+8,Milestone - Launch,Launch,Future steps,0,2022-02-21 - 2022-02-21,,,9,,
+9,Task 7,Closure,Future steps,6,2022-02-22 - 2022-02-27,,Management,15,,
+10,Task 8,Closure,Future steps,10,2022-02-28 - 2022-03-09,,Direct work,52,,
+11,Milestone - Closure,Closure,Future steps,0,2022-03-11 - 2022-03-11,,,5,,

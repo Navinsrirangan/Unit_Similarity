@@ -1,0 +1,16 @@
+,name,group.title,Person,Paid?,Balance,From,To
+0,Loan amount by beginning of 2021,University loan payments,navin,PAID,38509.04,1/01/2021,23/01/2021
+1,Jan,University loan payments,navin,PAID,424.47,31/01/2021,31/01/2021
+2,Feb,University loan payments,navin,PAID,424.27,1/02/2021,11/02/2021
+3,March,University loan payments,navin,PAID,424.27,3/03/2021,17/03/2021
+4,April,University loan payments,navin,PAID,424.47,2/04/2021,23/04/2021
+5,May,University loan payments,navin,PAID,424.47,13/05/2021,22/05/2021
+6,June,University loan payments,navin,PAID,424.47,11/06/2021,15/06/2021
+7,July,University loan payments,navin,Ongoing,,8/07/2021,23/07/2021
+8,August,University loan payments,navin,Up next!,,13/08/2021,24/08/2021
+9,test item,University loan payments,,Up next!,,,
+10,Loan amount by beginning of 2021,Stanford loan payments (All paid!),navin,PAID,816.15,1/01/2021,15/01/2021
+11,Feb 28th,Stanford loan payments (All paid!),navin,PAID,-200,3/02/2021,18/02/2021
+12,March 14th,Stanford loan payments (All paid!),navin,PAID,-200,14/03/2021,18/03/2021
+13,March 28th,Stanford loan payments (All paid!),navin,PAID,-200,28/03/2021,31/03/2021
+14,April 11th,Stanford loan payments (All paid!),navin,PAID,-216.15,1/04/2021,16/04/2021
